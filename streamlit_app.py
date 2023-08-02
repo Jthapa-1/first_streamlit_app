@@ -4,7 +4,7 @@ import requests
 import snowflake.connector
 
 
-import urllib.error import urlerror
+from urllib.error import urlerror
 
 
 streamlit.title('My Parents New Healthy Diner')
